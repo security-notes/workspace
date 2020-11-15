@@ -10,6 +10,9 @@
 # Git
 apt install git
 
+# Python2
+apt install python2
+
 ##############################
 #           Pwn              #
 ##############################
@@ -37,6 +40,9 @@ pip install angr
 # gdb-peda
 git clone https://github.com/longld/peda.git ~/peda
 echo "source ~/peda/peda.py" >> ~/.gdbinit
+
+# for 32bit ELF
+apt-get install lib32z1
 
 ##############################
 #          Crypto            #
