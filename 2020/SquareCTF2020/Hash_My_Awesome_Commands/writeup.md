@@ -1,6 +1,4 @@
-Not solved :(
-
-# Try
+# Writeup
 
 Goプログラムのmain関数の中身を見ると、`(command)|(base64)` の形式でを入力すればよいことがわかる。
 

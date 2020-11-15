@@ -12,8 +12,8 @@
 
 | tag    | problem                                              | comment            | score | solved |
 | ------ | ---------------------------------------------------- | ------------------ | ----: | -----: |
-| Crypto | [Oh_Sheet](Oh_Sheet)                                 | google spreadsheet | 200   |    95    |
-|        | [Hash_My_Awesome_Commands](Hash_My_Awesome_Commands) | timing attack      | 150   |    51    |
+| Crypto | [Oh_Sheet](Oh_Sheet)                                 | google spreadsheet | 200   | 95     |
+|        | [Hash_My_Awesome_Commands](Hash_My_Awesome_Commands) | timing attack      | 150   | 51     |
 
 ### Unsolved
 
