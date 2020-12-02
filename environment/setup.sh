@@ -100,3 +100,6 @@ pip install distorm3==3.4.4
 git clone https://github.com/volatilityfoundation/volatility.git
 cd volatility/
 sudo python2 setup.py build install
+
+# Wireshark
+sudo apt install wireshark
