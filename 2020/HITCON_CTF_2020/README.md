@@ -18,9 +18,8 @@
 
 ### Unsolved
 
-| tag  | problem                  | comment | score | solved |
-| ---- | ------------------------ | ------- | ----: | -----: |
-| misc | [Baby Shock](Baby_Shock) |         | 280   | 21     |
+| tag | problem | comment | score | solved |
+| --- | ------- | ------- | ----: | -----: |
 
 ---
 
