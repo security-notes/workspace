@@ -54,3 +54,17 @@ body {
 手がかりがつかめず...
 
 # Solution
+
+**[writeup]**
+
+* https://github.com/0xbigshaq/ctf-stuff/tree/main/perfect-blue-ctf-2020/apoche
+
+`robots.txt`を使ってディレクトリ構造を確かめる。
+
+こうして見つかった`secrets`ディレクトリの中にヒントがあるので、それをもとにディレクトリトラバーサルでフラグを入手。
+
+(2020/12/07 サーバーが立ち上がっていないので確認できず...)
+
+## Comment
+
+Web問題で`robots.txt`を手がかりにするというのは、pwn問題でいうところの表層解析に等しいのかもしれないと思った。

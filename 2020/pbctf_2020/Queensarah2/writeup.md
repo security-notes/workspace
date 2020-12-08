@@ -67,3 +67,14 @@ lguh
 * https://ja.wikipedia.org/wiki/ブロック暗号#ショートカット法
 
 # Solution
+
+**[writeup]**
+
+* https://discord.com/channels/748672086838607943/785302038606643231/785453953970208768
+
+> for queensarah2, you can do a slide attack, or sqrt the permutation.
+>
+> slide attack was intended soln i think: https://www.robertxiao.ca/hacking/sarah2/
+>
+> solve script for queensarah2
+> https://github.com/captainGeech42/ctf-writeups/tree/master/pbctf2020/queensarah2

