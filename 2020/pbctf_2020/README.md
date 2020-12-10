@@ -22,7 +22,7 @@
 | ------ | -------------------------- | ------------------------------- | ----: | -----: |
 | Web    | [Apoche I](Apoche_I)       | robots.txt, directory traversal | 52    | 52     |
 |        | [Sploosh](Sploosh)         | Splash, Webhook                 | 156   | 76     |
-| Crypto | [Queensarah2](Queensarah2) |                                 | 200   | 37     |
+| Crypto | [Queensarah2](Queensarah2) | Sarah2 Cipher                   | 200   | 37     |
 
 ---
 

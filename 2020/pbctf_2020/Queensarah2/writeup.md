@@ -70,11 +70,30 @@ lguh
 
 **[writeup]**
 
-* https://discord.com/channels/748672086838607943/785302038606643231/785453953970208768
-
 > for queensarah2, you can do a slide attack, or sqrt the permutation.
 >
-> slide attack was intended soln i think: https://www.robertxiao.ca/hacking/sarah2/
+> slide attack was intended soln i think: 
+>> https://www.robertxiao.ca/hacking/sarah2/
 >
 > solve script for queensarah2
-> https://github.com/captainGeech42/ctf-writeups/tree/master/pbctf2020/queensarah2
+>> https://github.com/captainGeech42/ctf-writeups/tree/master/pbctf2020/queensarah2
+>
+> [via Discord](https://discord.com/channels/748672086838607943/785302038606643231/785453953970208768)
+
+
+> Here's my writeup for queensarah2 
+>> https://github.com/qxxxb/ctf/tree/master/2020/pbctf/queensarah2. 
+>
+>I tried to explain the crypto clearly even tho my script is really bad :smiling_face_with_tear:
+>
+> [via Discord](https://discord.com/channels/748672086838607943/785302038606643231/785608839013597213)
+
+> https://project-euphoria.netlify.app/blog/9-pbctf-2020/
+
+2番目のwriteupが図で説明されていてわかりやすい。
+
+`odd cycle`にうまく当てはまれば`S_box`を復元できるので、復号化できるようになる。
+
+# Comment
+
+一番シンプルな2文字の置換に着目した点はよかった。同じアルゴリズムでも確率次第でうまくいく／いかないがある問題が出題されること分かった。
