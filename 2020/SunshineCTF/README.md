@@ -12,10 +12,10 @@
 
 | tag           | problem                                      | comment        | score | solved |
 | ------------- | -------------------------------------------- | -------------- | ----: | -----: |
-| Reversing     | [Hotel Door Puzzle](Hotel_Door_Puzzle)       | angr           |       |        |
-| Crypto        | [Magically Delicious](Magically_Delicious)   | octal          |       |        |
-| Web           | [Password Pandemonium](Password_Pandemonium) | javascript     |       |        |
-| Speedrun, pwn | [speedrun-00](speedrun-00)                   | stack overflow |       |        |
+| Reversing     | [Hotel Door Puzzle](Hotel_Door_Puzzle)       | angr           | 100   |        |
+| Crypto        | [Magically Delicious](Magically_Delicious)   | octal          | 100   |        |
+| Web           | [Password Pandemonium](Password_Pandemonium) | javascript     | 100   |        |
+| Speedrun, pwn | [speedrun-00](speedrun-00)                   | stack overflow | 10    |        |
 
 ### Unsolved
 
