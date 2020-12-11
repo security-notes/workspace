@@ -4,7 +4,7 @@
 | --------- | ------------------------------------------------------------------ | ------------------------------------ | ----: | -----: |
 | Web       | [Cyberwall](CyberSecurityRumble2020/Cyberwall)                     | OS Command Injection                 | 100   | 389    |
 |           | [Wheels n Whales](CyberSecurityRumble2020/Wheels_n_Whales)         | PyYAML                               | 100   | 94     |
-|           | [Password Pandemonium](SunshineCTF/Password_Pandemonium)           | javascript                           | 100   | ?      |
+|           | [Password Pandemonium](SunshineCTF/Password_Pandemonium)           | javascript                           | 100   | 271    |
 |           | [DevTools_1](WaniCTF/DevTools_1)                                   | devtool                              | 100   | 163    |
 |           | [DevTools_2](WaniCTF/DevTools_2)                                   | devtool                              | 101   | 154    |
 |           | [Simple Memo](WaniCTF/Simple_Memo)                                 | directory traversal                  | 101   | 135    |
@@ -17,7 +17,7 @@
 |           | [Pady McPadface](CyberSecurityRumble2020/Pady_McPadface)           | Quadratic residue                    | 200   | 18     |
 |           | [Oh_Sheet](SquareCTF2020/Oh_Sheet)                                 | google spreadsheet                   | 200   | 95     |
 |           | [Hash_My_Awesome_Commands](SquareCTF2020/Hash_My_Awesome_Commands) | timing attack                        | 150   | 51     |
-|           | [Magically Delicious](SunshineCTF/Magically_Delicious)             | octal                                | 100   | ?      |
+|           | [Magically Delicious](SunshineCTF/Magically_Delicious)             | octal                                | 100   | 180    |
 |           | [Veni, vidi](WaniCTF/Veni_vidi)                                    | ROT13                                | 101   | 152    |
 |           | [exclusive](WaniCTF/exclusive)                                     | XOR                                  | 101   | 96     |
 |           | [Basic RSA](WaniCTF/Basic_RSA)                                     | RSA                                  | 102   | 76     |
@@ -28,7 +28,7 @@
 | Reversing | [Zeh](CyberSecurityRumble2020/Zeh)                                 | XOR                                  | 100   | 221    |
 |           | [Welcome](HITCON_CTF_2020/Welcome)                                 | ssh                                  | 50    | 715    |
 |           | [SSE_KEYGENME](KipodAfterFreeCTF/SSE_KEYGENME)                     | angr                                 | 25    | 127    |
-|           | [Hotel Door Puzzle](SunshineCTF/Hotel_Door_Puzzle)                 | angr                                 | 100   | ?      |
+|           | [Hotel Door Puzzle](SunshineCTF/Hotel_Door_Puzzle)                 | angr                                 | 100   | 195    |
 | Forensics | [AC1750](HITCON_CTF_2020/AC1750)                                   | CVE-2020-10882, pcap                 | 168   | 100    |
 |           | [logged_flag](WaniCTF/logged_flag)                                 | key logger                           | 101   | 126    |
 |           | [ALLIGATOR_01](WaniCTF/ALLIGATOR_01)                               | volatility, pstree                   | 102   | 83     |
@@ -36,7 +36,7 @@
 |           | [chunk_eater](WaniCTF/chunk_eater)                                 | PNG chunk                            | 102   | 71     |
 |           | [ALLIGATOR_03](WaniCTF/ALLIGATOR_03)                               | volatility, hashdump                 | 104   | 58     |
 |           | [zero_size_png](WaniCTF/zero_size_png)                             | PNG CRC32, zlib                      | 107   | 40     |
-| Pwn       | [speedrun-00](SunshineCTF/speedrun-00)                             | stack overflow                       | 10    | ?      |
+| Pwn       | [speedrun-00](SunshineCTF/speedrun-00)                             | stack overflow                       | 10    | 226    |
 | Misc      | [Find a Number](WaniCTF/Find_a_Number)                             | binary search                        | 101   | 111    |
 |           | [MQTT Challenge](WaniCTF/MQTT_Challenge)                           | MQTT                                 | 103   | 65     |
 |           | [Not-stego](pbctf_2020/Not-stego)                                  | ascii                                | 26    | 135    |
