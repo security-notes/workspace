@@ -4,7 +4,8 @@
 
 * 2020/12/05 09:00 JST — 2020/12/07 09:00 JST
 
----
+>theKidOfArcrania
+>>@everyone the challenges has now been made public here: https://github.com/perfectblue/pbctf-2020-challs
 
 ## My Challenges
 
