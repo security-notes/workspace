@@ -103,3 +103,13 @@ sudo python2 setup.py build install
 
 # Wireshark
 sudo apt install wireshark
+
+# Zsteg(Ruby)
+sudo gem install zsteg
+
+##############################
+#            Web             #
+##############################
+
+# lynx
+sudo apt install lynx
