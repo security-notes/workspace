@@ -13,6 +13,7 @@
 |           | [SQL Challenge 2](WaniCTF/SQL_Challenge_2)                         | SQL injection w/o special characters | 105   | 50     |
 |           | [Apoche I](pbctf_2020/Apoche_I)                                    | robots.txt, directory traversal      | 52    | 52     |
 |           | [Sploosh](pbctf_2020/Sploosh)                                      | Splash, Webhook                      | 156   | 76     |
+|           | [Lynx](kksctf_open_2020/Lynx)                                      | Lynx, robots.txt                     | 204   | 113    |
 | Crypto    | [Hashfun](CyberSecurityRumble2020/Hashfun)                         | XOR                                  | 100   | 267    |
 |           | [Pady McPadface](CyberSecurityRumble2020/Pady_McPadface)           | Quadratic residue                    | 200   | 18     |
 |           | [Oh_Sheet](SquareCTF2020/Oh_Sheet)                                 | google spreadsheet                   | 200   | 95     |
@@ -25,6 +26,7 @@
 |           | [l0g0n](WaniCTF/l0g0n)                                             | CVE-2020-1472(Zerologon)             | 111   | 33     |
 |           | [Ainissesthai](pbctf_2020/Ainissesthai)                            | Enigma                               | 53    | 59     |
 |           | [Queensarah2](pbctf_2020/Queensarah2)                              | Sarah2 Cipher                        | 200   | 37     |
+|           | [fonction_spéciale](kksctf_open_2020/fonction_speciale)            | Look(Count)-and-say sequence         | 240   | 91     |
 | Reversing | [Zeh](CyberSecurityRumble2020/Zeh)                                 | XOR                                  | 100   | 221    |
 |           | [Welcome](HITCON_CTF_2020/Welcome)                                 | ssh                                  | 50    | 715    |
 |           | [SSE_KEYGENME](KipodAfterFreeCTF/SSE_KEYGENME)                     | angr                                 | 25    | 127    |
@@ -41,3 +43,5 @@
 |           | [MQTT Challenge](WaniCTF/MQTT_Challenge)                           | MQTT                                 | 103   | 65     |
 |           | [Not-stego](pbctf_2020/Not-stego)                                  | ascii                                | 26    | 135    |
 |           | [GCombo](pbctf_2020/GCombo)                                        | Google Forms                         | 36    | 92     |
+|           | [motor_sounds](kksctf_open_2020/motor_sounds)                      | G-code                               | 268   | 77     |
+|           | [bson](kksctf_open_2020/bson)                                      | MessagePack                          | 331   | 53     |
