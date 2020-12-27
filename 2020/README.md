@@ -14,6 +14,7 @@
 |           | [Apoche I](pbctf_2020/Apoche_I)                                    | robots.txt, directory traversal      | 52    | 52     |
 |           | [Sploosh](pbctf_2020/Sploosh)                                      | Splash, Webhook                      | 156   | 76     |
 |           | [Lynx](kksctf_open_2020/Lynx)                                      | Lynx, robots.txt                     | 204   | 113    |
+|           | [What time is it now?](What_time_is_it_now)                        | date command                         | 123   | 63     |
 | Crypto    | [Hashfun](CyberSecurityRumble2020/Hashfun)                         | XOR                                  | 100   | 267    |
 |           | [Pady McPadface](CyberSecurityRumble2020/Pady_McPadface)           | Quadratic residue                    | 200   | 18     |
 |           | [Oh_Sheet](SquareCTF2020/Oh_Sheet)                                 | google spreadsheet                   | 200   | 95     |
@@ -27,6 +28,7 @@
 |           | [Ainissesthai](pbctf_2020/Ainissesthai)                            | Enigma                               | 53    | 59     |
 |           | [Queensarah2](pbctf_2020/Queensarah2)                              | Sarah2 Cipher                        | 200   | 37     |
 |           | [fonction_spéciale](kksctf_open_2020/fonction_speciale)            | Look(Count)-and-say sequence         | 240   | 91     |
+|           | [rsa](rsa)                                                         | RSA encrypt p and q                  | 186   | 25     |
 | Reversing | [Zeh](CyberSecurityRumble2020/Zeh)                                 | XOR                                  | 100   | 221    |
 |           | [Welcome](HITCON_CTF_2020/Welcome)                                 | ssh                                  | 50    | 715    |
 |           | [SSE_KEYGENME](KipodAfterFreeCTF/SSE_KEYGENME)                     | angr                                 | 25    | 127    |
