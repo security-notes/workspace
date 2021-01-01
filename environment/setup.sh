@@ -32,6 +32,9 @@ export PATH=$PATH:$HOME/.rbenv/bin
 BASHRC
 rbenv install 2.7.1
 
+# docker
+sudo apt install docker-compose
+
 ##############################
 #           Pwn              #
 ##############################
