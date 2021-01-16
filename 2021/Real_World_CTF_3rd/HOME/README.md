@@ -1,0 +1,1 @@
+No need to wear a mask at HOME
