@@ -77,6 +77,9 @@ sudo mv jdk-11.0.2 /opt/java/
 echo 'JAVA_HOME=/opt/java/jdk-11.0.2' >> ~/.bashrc
 echo 'PATH=$JAVA_HOME/bin:$PATH' >> ~/.bashrc
 
+# uncompyle6 (.pyc to .py)
+pip install uncompyle6
+
 ##############################
 #          Crypto            #
 ##############################
