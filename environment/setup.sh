@@ -116,6 +116,9 @@ sudo apt install binwalk
 # Zsteg(Ruby)
 sudo gem install zsteg
 
+# mupdf, mutool
+sudo apt install mupdf-tools
+
 ##############################
 #            Web             #
 ##############################
