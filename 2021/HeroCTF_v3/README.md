@@ -12,22 +12,22 @@
 
 ### Solved
 
-| tag       | problem         | comment                    | score | solved |
-| --------- | --------------- | -------------------------- | ----: | -----: |
-| Web       | 0xSSRF          | SSRF                       | 60    |        |
-| Misc      | Atoms           | Symbol of elements         | 50    |        |
-| Reversing | EasyAssembly    | Assemble                   | 40    |        |
-| OSINT     | Find_Me         | Image search               | 10    |        |
-| Crypto    | h4XOR           | PNG, XOR                   | 75    |        |
-| Forensic  | HolyAbbot       | Ave Maria de Trithème      | 15    |        |
-| Misc      | Ping_Pong       | Programing                 | 45    |        |
-| Web       | PwnQL_#1        | SQL injection (LIKE)       | 50    |        |
-| Web       | PwnQL_#2        | Blind SQL injection        | 75    |        |
-| Misc      | Record          | DNS Record                 | 15    |        |
-| Misc      | Russian_Doll    |                            | 50    |        |
-| Forensic  | We_need_you_1_5 | Volatility (PC Name)       | 50    |        |
-| Forensic  | We_need_you_2_5 | Volatility (User Password) | 75    |        |
-| Forensic  | We_need_you_3_5 | Volatility (IP Port)       | 100   |        |
+| tag       | problem                            | comment                    | score | solved |
+| --------- | ---------------------------------- | -------------------------- | ----: | -----: |
+| Web       | [0xSSRF](0xSSRF)                   | SSRF                       | 60    |        |
+| Misc      | [Atoms](Atoms)                     | Symbol of elements         | 50    |        |
+| Reversing | [EasyAssembly](EasyAssembly)       | Assemble                   | 40    |        |
+| OSINT     | [Find Me](Find_Me)                 | Image search               | 10    |        |
+| Crypto    | [h4XOR](h4XOR)                     | PNG, XOR                   | 75    |        |
+| Forensic  | [HolyAbbot](HolyAbbot)             | Ave Maria de Trithème      | 15    |        |
+| Misc      | [Ping Pong](Ping_Pong)             | Programing                 | 45    |        |
+| Web       | [PwnQL #1](PwnQL_#1)               | SQL injection (LIKE)       | 50    |        |
+| Web       | [PwnQL #2](PwnQL_#2)               | Blind SQL injection        | 75    |        |
+| Misc      | [Record](Record)                   | DNS Record                 | 15    |        |
+| Misc      | [Russian Doll](Russian_Doll)       |                            | 50    |        |
+| Forensic  | [We need you 1/5](We_need_you_1_5) | Volatility (PC Name)       | 50    |        |
+| Forensic  | [We need you 2/5](We_need_you_2_5) | Volatility (User Password) | 75    |        |
+| Forensic  | [We need you 3/5](We_need_you_3_5) | Volatility (IP Port)       | 100   |        |
 
 ---
 
