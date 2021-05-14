@@ -119,6 +119,10 @@ sudo gem install zsteg
 # mupdf, mutool
 sudo apt install mupdf-tools
 
+# QSSTV
+sudo apt-get install qsstv
+sudo apt install pavucontrol
+
 ##############################
 #            Web             #
 ##############################
