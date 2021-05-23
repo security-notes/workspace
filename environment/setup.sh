@@ -86,6 +86,7 @@ pip install uncompyle6
 
 # Crypto
 pip3 install pycrypto
+pip install pycryptodome
 
 ##############################
 #           Math             #
@@ -116,12 +117,24 @@ sudo apt install binwalk
 # Zsteg(Ruby)
 sudo gem install zsteg
 
+# fcrackzip
+sudo apt-get install fcrackzip
+
+# john the ripper
+git clone https://github.com/openwall/john.git
+cd john/src
+./configure && make
+sudo ln -s $(pwd)/../run/zip2john /usr/local/bin
+
 # mupdf, mutool
 sudo apt install mupdf-tools
 
 # QSSTV
 sudo apt-get install qsstv
 sudo apt install pavucontrol
+
+# ffmpeg
+sudo apt install ffmpeg
 
 ##############################
 #            Web             #
