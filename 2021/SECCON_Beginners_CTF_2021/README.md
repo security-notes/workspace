@@ -16,7 +16,7 @@
 | Crypto    | [Imaginary](Imaginary)                     | ECB Mode                                            | 264   | 75     |
 | Crypto    | [Logical_SEESAW](Logical_SEESAW)           | AND                                                 | 118   | 190    |
 | Crypto    | [p-8RSA](p-8RSA)                           | RSA, fermat's factorization method, GCD(e,phi) != 1 | 387   | 30     |
-| Reversing | [please_not_trace_me](please_not_trace_me) | GDB, set variable                                   | 242   | 30     |
+| Reversing | [please_not_trace_me](please_not_trace_me) | GDB, set variable                                   | 242   | 86     |
 | Crypto    | [simple_RSA](simple_RSA)                   | RSA, e = 3                                          | 75    | 289    |
 
 ---
