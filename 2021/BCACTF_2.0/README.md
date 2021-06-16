@@ -41,8 +41,8 @@
 | Web       | [Wasm Protected Site 1](Wasm_Protected_Site_1)                    | wasm                                | 100   | 438    |
 | Web       | [Wasm Protected Site 2](Wasm_Protected_Site_2)                    | wasm, debug                         | 250   | 102    |
 | Misc      | [Welcome to the Casino](Welcome_to_the_Casino)                    | nc script                           | 125   | 98     |
-| Forensics | [Zstegosaurus](Zstegosaurus)                                      | substitution                        | 75    | 306    |
-| Crypto    | [􃗁􌲔􇺟􊸉􁫞􄺷􄧻􃄏􊸉](􃗁􌲔􇺟􊸉􁫞􄺷􄧻􃄏􊸉)                          |                                     | 75    | 164    |
+| Forensics | [Zstegosaurus](Zstegosaurus)                                      | zsteg                               | 75    | 306    |
+| Crypto    | [􃗁􌲔􇺟􊸉􁫞􄺷􄧻􃄏􊸉](􃗁􌲔􇺟􊸉􁫞􄺷􄧻􃄏􊸉)                          | substitution                        | 75    | 164    |
 
 ---
 
